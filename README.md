@@ -37,7 +37,6 @@ Integração com sistemas de automação, como:
 - LM35: Sensor de temperatura analógico.
 - Sensor de Umidade: Sensor analógico para medir a umidade relativa.
 - LDR: Sensor de luminosidade.
-- Display LCD 16x2: Para exibição dos dados.
 - LED: Indicador visual de alerta.
 - Resistores, fios de conexão e protoboard.
   
