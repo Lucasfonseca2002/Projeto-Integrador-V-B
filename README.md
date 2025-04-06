@@ -1,4 +1,4 @@
-# Projeto-Integrador-V-B - PUC GOIAS
+# Projeto-Integrador-V-B - PUC GOIAS - Arduino Uno
 
 Sistema de Monitoramento Ambiental para Casa Inteligente
 
