@@ -14,7 +14,6 @@ Monitoramento em tempo real de:
 - Umidade relativa (%),
 - Luminosidade (lux).
   
-Exibição dos dados em um display LCD 16x2.
 
 Alerta visual (LED) quando a temperatura ultrapassa o limite configurado.
 
