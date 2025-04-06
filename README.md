@@ -1,10 +1,10 @@
-# Projeto-Integrador-V-B
+# Projeto-Integrador-V-B - PUC GOIAS
 
 Sistema de Monitoramento Ambiental para Casa Inteligente
 
 # Descrição
 
-Este projeto implementa um sistema de monitoramento ambiental para uma casa inteligente, utilizando sensores para medir temperatura, umidade e luminosidade. Os dados são exibidos em um display LCD e, caso a temperatura ultrapasse um limite crítico, um LED de alerta é acionado. O sistema também pode ser expandido para integração com outros dispositivos de automação residencial.
+Este projeto implementa um sistema de monitoramento ambiental para uma casa inteligente, utilizando sensores para medir temperatura, umidade e luminosidade. Os dados são exibidos em um display LCD e, caso a temperatura ultrapasse um limite crítico, um LED de alerta é acionado. O sistema também pode ser expandido para integração com outros dispositivos de automação residencial. Foi desenvolvido com base em um projeto elaboarado pela PUC GOIÁS.
 
 ## Funcionalidades
 
